@@ -1,0 +1,6 @@
+Dependencies：
+
+protobuf-3.4.0
+yum install autoconf
+yum -y install automake
+yum install libtool
